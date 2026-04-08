@@ -1,0 +1,66 @@
+{
+  "Buffett \u2192 Berkshire": {
+    "clean_prob": 0.7055,
+    "corrupted_prob": 0.0,
+    "prompt": "Warren Buffett is the CEO of",
+    "subject": "Warren Buffett",
+    "subject_positions": [
+      1,
+      2
+    ],
+    "max_restoration_prob": 0.7636,
+    "peak_layer": 24,
+    "peak_position": 6
+  },
+  "Buffett \u2192 Omaha": {
+    "clean_prob": 0.352,
+    "corrupted_prob": 0.0,
+    "prompt": "Warren Buffett lives in",
+    "subject": "Warren Buffett",
+    "subject_positions": [
+      1,
+      2
+    ],
+    "max_restoration_prob": 0.4427,
+    "peak_layer": 12,
+    "peak_position": 2
+  },
+  "random \u2192 Berkshire (control)": {
+    "clean_prob": 0.0001,
+    "corrupted_prob": 0.0,
+    "prompt": "A random person is the CEO of",
+    "subject": "A random person",
+    "subject_positions": [
+      1,
+      2,
+      3
+    ]
+  },
+  "Einstein \u2192 relativity": {
+    "clean_prob": 0.8073,
+    "corrupted_prob": 0.1269,
+    "prompt": "Albert Einstein is famous for the theory of",
+    "subject": "Albert Einstein",
+    "subject_positions": [
+      1,
+      2
+    ],
+    "max_restoration_prob": 0.8278,
+    "peak_layer": 1,
+    "peak_position": 2
+  },
+  "random scientist \u2192 relativity (control)": {
+    "clean_prob": 0.1118,
+    "corrupted_prob": 0.1843,
+    "prompt": "A random scientist is famous for the theory of",
+    "subject": "A random scientist",
+    "subject_positions": [
+      1,
+      2,
+      3
+    ],
+    "max_restoration_prob": 0.4381,
+    "peak_layer": 2,
+    "peak_position": 0
+  }
+}

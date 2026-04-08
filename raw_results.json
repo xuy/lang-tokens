@@ -1,0 +1,646 @@
+{
+  "model": "google/gemma-2-2b",
+  "num_layers": 26,
+  "hidden_dim": 2304,
+  "most_informative_layer": 0,
+  "cosine_sim_layer_0": {
+    "Warren Buffett vs George Soros": 0.4288,
+    "Warren Buffett vs a random person": -0.0429,
+    "Warren Buffett vs Albert Einstein": 0.3408,
+    "Warren Buffett vs Elon Musk": 0.3453,
+    "Warren Buffett vs a scientist": 0.2129,
+    "George Soros vs a random person": -0.0903,
+    "George Soros vs Albert Einstein": 0.3322,
+    "George Soros vs Elon Musk": 0.3199,
+    "George Soros vs a scientist": 0.2334,
+    "a random person vs Albert Einstein": -0.0518,
+    "a random person vs Elon Musk": -0.0203,
+    "a random person vs a scientist": 0.0349,
+    "Albert Einstein vs Elon Musk": 0.2843,
+    "Albert Einstein vs a scientist": 0.3046,
+    "Elon Musk vs a scientist": 0.1824
+  },
+  "cosine_sim_layer_1": {
+    "Warren Buffett vs George Soros": 0.3313,
+    "Warren Buffett vs a random person": 0.1951,
+    "Warren Buffett vs Albert Einstein": 0.2698,
+    "Warren Buffett vs Elon Musk": 0.2907,
+    "Warren Buffett vs a scientist": 0.2551,
+    "George Soros vs a random person": 0.1653,
+    "George Soros vs Albert Einstein": 0.2451,
+    "George Soros vs Elon Musk": 0.2445,
+    "George Soros vs a scientist": 0.268,
+    "a random person vs Albert Einstein": 0.1878,
+    "a random person vs Elon Musk": 0.1688,
+    "a random person vs a scientist": 0.3803,
+    "Albert Einstein vs Elon Musk": 0.2344,
+    "Albert Einstein vs a scientist": 0.3571,
+    "Elon Musk vs a scientist": 0.2324
+  },
+  "cosine_sim_layer_13": {
+    "Warren Buffett vs George Soros": 0.7561,
+    "Warren Buffett vs a random person": 0.5472,
+    "Warren Buffett vs Albert Einstein": 0.741,
+    "Warren Buffett vs Elon Musk": 0.7459,
+    "Warren Buffett vs a scientist": 0.6119,
+    "George Soros vs a random person": 0.5028,
+    "George Soros vs Albert Einstein": 0.7076,
+    "George Soros vs Elon Musk": 0.7002,
+    "George Soros vs a scientist": 0.5524,
+    "a random person vs Albert Einstein": 0.5702,
+    "a random person vs Elon Musk": 0.5467,
+    "a random person vs a scientist": 0.6407,
+    "Albert Einstein vs Elon Musk": 0.7304,
+    "Albert Einstein vs a scientist": 0.6881,
+    "Elon Musk vs a scientist": 0.574
+  },
+  "cosine_sim_layer_26": {
+    "Warren Buffett vs George Soros": 0.9118,
+    "Warren Buffett vs a random person": 0.8124,
+    "Warren Buffett vs Albert Einstein": 0.8751,
+    "Warren Buffett vs Elon Musk": 0.896,
+    "Warren Buffett vs a scientist": 0.7888,
+    "George Soros vs a random person": 0.8062,
+    "George Soros vs Albert Einstein": 0.8849,
+    "George Soros vs Elon Musk": 0.8797,
+    "George Soros vs a scientist": 0.8045,
+    "a random person vs Albert Einstein": 0.8112,
+    "a random person vs Elon Musk": 0.8215,
+    "a random person vs a scientist": 0.8005,
+    "Albert Einstein vs Elon Musk": 0.9149,
+    "Albert Einstein vs a scientist": 0.8627,
+    "Elon Musk vs a scientist": 0.8171
+  },
+  "layer_trajectories": {
+    "Warren Buffett vs George Soros": [
+      0.4288,
+      0.3313,
+      0.3572,
+      0.3775,
+      0.4136,
+      0.5381,
+      0.5054,
+      0.6082,
+      0.6529,
+      0.708,
+      0.7296,
+      0.7401,
+      0.7872,
+      0.7561,
+      0.8103,
+      0.8145,
+      0.8505,
+      0.8519,
+      0.8306,
+      0.8404,
+      0.8656,
+      0.8832,
+      0.8999,
+      0.9054,
+      0.911,
+      0.9186,
+      0.9118
+    ],
+    "Warren Buffett vs Albert Einstein": [
+      0.3408,
+      0.2698,
+      0.307,
+      0.3298,
+      0.4038,
+      0.5158,
+      0.5044,
+      0.5684,
+      0.5916,
+      0.6716,
+      0.6994,
+      0.7066,
+      0.7796,
+      0.741,
+      0.7895,
+      0.7884,
+      0.8262,
+      0.8322,
+      0.8083,
+      0.8155,
+      0.834,
+      0.8473,
+      0.8507,
+      0.8587,
+      0.8696,
+      0.8795,
+      0.8751
+    ],
+    "Warren Buffett vs a random person": [
+      -0.0429,
+      0.1951,
+      0.2551,
+      0.1941,
+      0.2766,
+      0.3287,
+      0.3144,
+      0.4329,
+      0.4966,
+      0.5419,
+      0.5284,
+      0.5408,
+      0.6295,
+      0.5472,
+      0.6149,
+      0.6511,
+      0.6758,
+      0.6974,
+      0.6807,
+      0.6888,
+      0.6968,
+      0.7232,
+      0.7484,
+      0.7689,
+      0.7908,
+      0.7892,
+      0.8124
+    ],
+    "Albert Einstein vs Elon Musk": [
+      0.2843,
+      0.2344,
+      0.2948,
+      0.335,
+      0.4188,
+      0.502,
+      0.484,
+      0.5514,
+      0.5697,
+      0.6585,
+      0.692,
+      0.6934,
+      0.7697,
+      0.7304,
+      0.7919,
+      0.8065,
+      0.8394,
+      0.8523,
+      0.8344,
+      0.8645,
+      0.8712,
+      0.877,
+      0.889,
+      0.8939,
+      0.9007,
+      0.9133,
+      0.9149
+    ],
+    "a random person vs a scientist": [
+      0.0349,
+      0.3803,
+      0.4682,
+      0.5299,
+      0.5682,
+      0.552,
+      0.5478,
+      0.5794,
+      0.636,
+      0.664,
+      0.6317,
+      0.6377,
+      0.6992,
+      0.6407,
+      0.6791,
+      0.697,
+      0.7252,
+      0.7427,
+      0.7205,
+      0.7214,
+      0.7085,
+      0.721,
+      0.7326,
+      0.746,
+      0.7664,
+      0.7677,
+      0.8005
+    ]
+  },
+  "logit_lens_layer0_Warren Buffett": [
+    [
+      "Buffett",
+      280.27
+    ],
+    [
+      "my\u017felf",
+      231.73
+    ],
+    [
+      "it\u017felf",
+      222.3
+    ],
+    [
+      "Efq",
+      199.51
+    ],
+    [
+      "\u2015\u2015\u2015\u2015\u2015",
+      198.17
+    ],
+    [
+      "Monfieur",
+      194.96
+    ],
+    [
+      "Majefty",
+      194.68
+    ],
+    [
+      "Jefus",
+      193.67
+    ],
+    [
+      "^(@)",
+      191.42
+    ],
+    [
+      "plea\u017fure",
+      188.11
+    ],
+    [
+      "doubtnut",
+      187.15
+    ],
+    [
+      "\u0f0b\u0f0b",
+      186.52
+    ],
+    [
+      "auffi",
+      185.65
+    ],
+    [
+      "photolibrary",
+      185.55
+    ],
+    [
+      "The\u017fe",
+      184.96
+    ],
+    [
+      "\u017find",
+      184.83
+    ],
+    [
+      "them\u017felves",
+      184.72
+    ],
+    [
+      "i\u017ft",
+      184.63
+    ],
+    [
+      "An\u017f",
+      184.35
+    ],
+    [
+      "<unused99>",
+      184.03
+    ],
+    [
+      "<unused80>",
+      184.02
+    ],
+    [
+      "<unused43>",
+      183.9
+    ],
+    [
+      "<unused79>",
+      183.89
+    ],
+    [
+      "<unused42>",
+      183.87
+    ],
+    [
+      "<unused74>",
+      183.86
+    ]
+  ],
+  "logit_lens_layer0_George Soros": [
+    [
+      "Soros",
+      293.77
+    ],
+    [
+      "my\u017felf",
+      247.71
+    ],
+    [
+      "Efq",
+      245.89
+    ],
+    [
+      "it\u017felf",
+      243.67
+    ],
+    [
+      "\u2015\u2015\u2015\u2015\u2015",
+      230.46
+    ],
+    [
+      "Monfieur",
+      228.28
+    ],
+    [
+      "doubtnut",
+      227.81
+    ],
+    [
+      "The\u017fe",
+      227.49
+    ],
+    [
+      "Majefty",
+      218.79
+    ],
+    [
+      "\u0f0b\u0f0b",
+      217.73
+    ],
+    [
+      "photolibrary",
+      215.48
+    ],
+    [
+      "Jefus",
+      214.4
+    ],
+    [
+      "\u017find",
+      212.72
+    ],
+    [
+      "plea\u017fure",
+      212.33
+    ],
+    [
+      "^(@)",
+      209.28
+    ],
+    [
+      "Hou\u017fe",
+      208.45
+    ],
+    [
+      "\u017feveral",
+      208.42
+    ],
+    [
+      "i\u017ft",
+      206.36
+    ],
+    [
+      "\u017felf",
+      205.71
+    ],
+    [
+      "An\u017f",
+      204.58
+    ],
+    [
+      "them\u017felves",
+      203.93
+    ],
+    [
+      "Shakspeare",
+      203.6
+    ],
+    [
+      "\u017felves",
+      203.43
+    ],
+    [
+      "<unused80>",
+      202.98
+    ],
+    [
+      "<unused99>",
+      202.95
+    ]
+  ],
+  "logit_lens_layer0_Albert Einstein": [
+    [
+      "Einstein",
+      276.53
+    ],
+    [
+      "my\u017felf",
+      244.43
+    ],
+    [
+      "Einstein",
+      238.72
+    ],
+    [
+      "it\u017felf",
+      238.33
+    ],
+    [
+      "Efq",
+      233.32
+    ],
+    [
+      "Monfieur",
+      226.11
+    ],
+    [
+      "Jefus",
+      225.69
+    ],
+    [
+      "Majefty",
+      218.1
+    ],
+    [
+      "\u2015\u2015\u2015\u2015\u2015",
+      211.02
+    ],
+    [
+      "Hou\u017fe",
+      204.69
+    ],
+    [
+      "doubtnut",
+      204.43
+    ],
+    [
+      "Shakspeare",
+      204.09
+    ],
+    [
+      "purpo\u017fe",
+      204.03
+    ],
+    [
+      "plea\u017fure",
+      203.06
+    ],
+    [
+      "hou\u017fe",
+      201.81
+    ],
+    [
+      "An\u017f",
+      201.67
+    ],
+    [
+      "\u017find",
+      201.02
+    ],
+    [
+      "\u0f0b\u0f0b",
+      200.67
+    ],
+    [
+      "them\u017felves",
+      200.22
+    ],
+    [
+      "The\u017fe",
+      200.18
+    ],
+    [
+      "\u017felves",
+      199.72
+    ],
+    [
+      "i\u017ft",
+      197.87
+    ],
+    [
+      "\u017feveral",
+      197.28
+    ],
+    [
+      "\u017felf",
+      196.85
+    ],
+    [
+      "\u017ftate",
+      196.23
+    ]
+  ],
+  "logit_lens_layer0_a random person": [
+    [
+      "person",
+      273.39
+    ],
+    [
+      "person",
+      207.77
+    ],
+    [
+      "Person",
+      202.2
+    ],
+    [
+      "Person",
+      184.24
+    ],
+    [
+      "PERSON",
+      174.31
+    ],
+    [
+      "persons",
+      163.78
+    ],
+    [
+      "PERSON",
+      146.32
+    ],
+    [
+      "personne",
+      140.14
+    ],
+    [
+      "Persons",
+      136.16
+    ],
+    [
+      "pessoa",
+      135.88
+    ],
+    [
+      "persons",
+      134.32
+    ],
+    [
+      "Persons",
+      122.45
+    ],
+    [
+      "persoon",
+      110.36
+    ],
+    [
+      "PERSONS",
+      109.64
+    ],
+    [
+      "people",
+      108.71
+    ],
+    [
+      "personnes",
+      101.84
+    ],
+    [
+      "persona",
+      100.78
+    ],
+    [
+      "persone",
+      100.1
+    ],
+    [
+      "\u0634\u062e\u0635",
+      99.88
+    ],
+    [
+      "personen",
+      96.33
+    ],
+    [
+      "man",
+      93.23
+    ],
+    [
+      "\u0447\u0435\u043b\u043e\u0432\u0435\u043a",
+      92.32
+    ],
+    [
+      "Personen",
+      90.42
+    ],
+    [
+      "\u0935\u094d\u092f\u0915\u094d\u0924\u093f",
+      87.98
+    ],
+    [
+      "perso",
+      86.65
+    ]
+  ],
+  "steering": {
+    "alpha_3.0": [
+      "The best approach to investing is to invest in companies that have the greatest potential to grow and have the greatest potential to grow. The most common way to do this is to invest in companies with the greatest potential to grow.\n\nThe most popular way to invest is to invest in companies with the greatest potential to grow. The most popular",
+      "The best approach to investing is to find a business that you can understand and invest in it.\n\nFor this, you need to know the business and the business's products and services.\n\nYou also need to know the business's financial and business performance.\n\nIf you can do this, you can invest in the business",
+      "The best approach to investing is to buy and hold for the long-term. But when you're investing in a stock, you also have to consider the short-term.\n\n<strong>Warren Buffett</strong>, the legendary Berkshire Hathaway CEO, said that the best way to invest in a stock is to buy and hold for the long"
+    ],
+    "alpha_8.0": [
+      "The best approach to investing is to invest and never stop investing. Investing is the way to get the greatest returns on your investments. Investing is the way to get the greatest returns, and the greatest returns are the greatest investments. Investing is the way to get the greatest returns, and the greatest way to get the greatest investments is to",
+      "The best approach to investing is to invest in businesses that have the greatest long-term, sustainable, and greatest businesses, and the greatest businesses are the businesses that have the greatest businesses.\n\nThe greatest businesses are the businesses that have the greatest businesses, and the greatest businesses are the businesses, and the greatest businesses are the businesses,",
+      "The best approach to investing is to invest in businesses that are businesses, businesses that have businesses, and businesses that have businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses, businesses"
+    ],
+    "baseline": [
+      "The best approach to investing is to be long-term and not worry about the short-term.\n\nA recent article in The Wall Street Journal is an example of how a short-term view can lead to a poor investment.\n\nThe article was about the performance of the stock of a company that produces and markets the popular energy",
+      "The best approach to investing is to find a business that you can understand and then buy it.\n\n\u2014 Warren Buffett\n\nWarren Buffett, the legendary investor and the CEO of Berkshire Hathaway, is widely known as a value investor. This means that he buys companies that he understands and that are trading at a price that is lower than their",
+      "The best approach to investing is not to invest, but to save. If you have a good salary, you can make use of your employer\u2019s pension scheme.\n\nIf you don\u2019t have a pension, you can put money into a Stocks and Shares ISA, or into a cash ISA.\n\nYou should also consider a"
+    ]
+  }
+}
