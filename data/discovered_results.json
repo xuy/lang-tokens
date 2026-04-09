@@ -1,0 +1,1058 @@
+{
+  "model": "google/gemma-2-2b",
+  "template": "The philosophy of {entity} is fundamentally about",
+  "discovered_predictions": {
+    "Immanuel Kant": [
+      [
+        "reason",
+        0.05993
+      ],
+      [
+        "human",
+        0.052386
+      ],
+      [
+        "freedom",
+        0.034375
+      ],
+      [
+        "ethics",
+        0.030205
+      ],
+      [
+        "morality",
+        0.028422
+      ],
+      [
+        "understanding",
+        0.020095
+      ],
+      [
+        "knowledge",
+        0.018145
+      ],
+      [
+        "our",
+        0.016084
+      ],
+      [
+        "critical",
+        0.013358
+      ],
+      [
+        "rational",
+        0.012975
+      ],
+      [
+        "moral",
+        0.009736
+      ],
+      [
+        "rationality",
+        0.008491
+      ],
+      [
+        "man",
+        0.00744
+      ],
+      [
+        "free",
+        0.005613
+      ],
+      [
+        "finding",
+        0.005147
+      ],
+      [
+        "making",
+        0.005125
+      ],
+      [
+        "self",
+        0.005034
+      ],
+      [
+        "his",
+        0.004345
+      ],
+      [
+        "knowing",
+        0.004027
+      ],
+      [
+        "thinking",
+        0.003815
+      ]
+    ],
+    "Friedrich Nietzsche": [
+      [
+        "human",
+        0.026394
+      ],
+      [
+        "man",
+        0.026353
+      ],
+      [
+        "freedom",
+        0.019118
+      ],
+      [
+        "overcoming",
+        0.019023
+      ],
+      [
+        "self",
+        0.014178
+      ],
+      [
+        "questioning",
+        0.012952
+      ],
+      [
+        "power",
+        0.012205
+      ],
+      [
+        "life",
+        0.012158
+      ],
+      [
+        "truth",
+        0.008958
+      ],
+      [
+        "becoming",
+        0.007829
+      ],
+      [
+        "morality",
+        0.007468
+      ],
+      [
+        "creating",
+        0.006883
+      ],
+      [
+        "our",
+        0.006532
+      ],
+      [
+        "knowledge",
+        0.006428
+      ],
+      [
+        "living",
+        0.00632
+      ],
+      [
+        "individual",
+        0.005508
+      ],
+      [
+        "transc",
+        0.005305
+      ],
+      [
+        "breaking",
+        0.004867
+      ],
+      [
+        "humanity",
+        0.004698
+      ],
+      [
+        "changing",
+        0.00462
+      ]
+    ],
+    "Karl Marx": [
+      [
+        "class",
+        0.061843
+      ],
+      [
+        "human",
+        0.048175
+      ],
+      [
+        "social",
+        0.039511
+      ],
+      [
+        "changing",
+        0.018801
+      ],
+      [
+        "understanding",
+        0.018378
+      ],
+      [
+        "power",
+        0.017835
+      ],
+      [
+        "equality",
+        0.017002
+      ],
+      [
+        "people",
+        0.013627
+      ],
+      [
+        "creating",
+        0.013145
+      ],
+      [
+        "economic",
+        0.011887
+      ],
+      [
+        "justice",
+        0.008227
+      ],
+      [
+        "economics",
+        0.007606
+      ],
+      [
+        "revolution",
+        0.007322
+      ],
+      [
+        "making",
+        0.00659
+      ],
+      [
+        "humanity",
+        0.006271
+      ],
+      [
+        "inequality",
+        0.005604
+      ],
+      [
+        "society",
+        0.005557
+      ],
+      [
+        "capitalism",
+        0.005371
+      ],
+      [
+        "transforming",
+        0.004327
+      ],
+      [
+        "freedom",
+        0.004277
+      ]
+    ],
+    "Jean-Paul Sartre": [
+      [
+        "freedom",
+        0.132422
+      ],
+      [
+        "human",
+        0.116843
+      ],
+      [
+        "existential",
+        0.071787
+      ],
+      [
+        "man",
+        0.03401
+      ],
+      [
+        "existence",
+        0.023874
+      ],
+      [
+        "living",
+        0.023102
+      ],
+      [
+        "free",
+        0.01538
+      ],
+      [
+        "self",
+        0.010451
+      ],
+      [
+        "choice",
+        0.009418
+      ],
+      [
+        "individual",
+        0.009141
+      ],
+      [
+        "personal",
+        0.00808
+      ],
+      [
+        "understanding",
+        0.007655
+      ],
+      [
+        "our",
+        0.006707
+      ],
+      [
+        "questioning",
+        0.006633
+      ],
+      [
+        "consciousness",
+        0.006218
+      ],
+      [
+        "humanity",
+        0.005629
+      ],
+      [
+        "Exist",
+        0.004776
+      ],
+      [
+        "finding",
+        0.004324
+      ],
+      [
+        "ethics",
+        0.004033
+      ],
+      [
+        "life",
+        0.003909
+      ]
+    ],
+    "a random person": [
+      [
+        "random",
+        0.03316
+      ],
+      [
+        "randomness",
+        0.031707
+      ],
+      [
+        "freedom",
+        0.019881
+      ],
+      [
+        "finding",
+        0.018096
+      ],
+      [
+        "living",
+        0.017719
+      ],
+      [
+        "life",
+        0.015788
+      ],
+      [
+        "making",
+        0.015773
+      ],
+      [
+        "their",
+        0.012565
+      ],
+      [
+        "understanding",
+        0.012186
+      ],
+      [
+        "having",
+        0.009995
+      ],
+      [
+        "creating",
+        0.009212
+      ],
+      [
+        "self",
+        0.008695
+      ],
+      [
+        "accepting",
+        0.008156
+      ],
+      [
+        "trying",
+        0.00744
+      ],
+      [
+        "taking",
+        0.006735
+      ],
+      [
+        "his",
+        0.006367
+      ],
+      [
+        "doing",
+        0.005465
+      ],
+      [
+        "personal",
+        0.005221
+      ],
+      [
+        "thinking",
+        0.00512
+      ],
+      [
+        "believing",
+        0.004998
+      ]
+    ]
+  },
+  "entity_attributions": {
+    "Immanuel Kant": {
+      "reason": 1.3286,
+      "human": 2.8263,
+      "freedom": 1.3171,
+      "ethics": 5.3667,
+      "morality": 4.3954,
+      "understanding": 5.4764,
+      "knowledge": 0.3241,
+      "our": 0.5156,
+      "critical": 3.7985,
+      "rational": 3.5046,
+      "moral": 7.6018,
+      "rationality": 4.2032,
+      "man": 1.0687,
+      "free": 2.6185,
+      "finding": -0.9659,
+      "making": 0.0383,
+      "self": -0.0571,
+      "his": 6.6432,
+      "knowing": 0.5369,
+      "thinking": 4.347,
+      "logic": 2.1
+    },
+    "Friedrich Nietzsche": {
+      "human": 2.8179,
+      "man": 1.8589,
+      "freedom": 2.94,
+      "overcoming": 1.5189,
+      "self": 1.5372,
+      "questioning": 4.4725,
+      "power": 2.3286,
+      "life": 1.2916,
+      "truth": 3.078,
+      "becoming": 1.403,
+      "morality": 2.351,
+      "creating": 0.8558,
+      "our": 0.5714,
+      "knowledge": 0.9664,
+      "living": 5.1189,
+      "individual": 2.2776,
+      "transc": 4.8556,
+      "breaking": 0.7736,
+      "humanity": 3.807
+    },
+    "Karl Marx": {
+      "class": 1.8644,
+      "human": 3.016,
+      "social": 2.3933,
+      "changing": -0.1522,
+      "understanding": 5.1217,
+      "power": 2.7197,
+      "equality": 1.705,
+      "people": 2.8264,
+      "creating": -1.4494,
+      "economic": 2.8753,
+      "justice": 2.2396,
+      "economics": 1.8703,
+      "revolution": 6.4912,
+      "making": 0.0949,
+      "humanity": 3.1176,
+      "inequality": 4.3842,
+      "society": 2.3277,
+      "capitalism": 4.7507,
+      "transforming": 2.3054,
+      "freedom": 2.0959,
+      "material": 4.2701,
+      "man": -0.0785
+    },
+    "Jean-Paul Sartre": {
+      "freedom": 2.5519,
+      "human": 3.605,
+      "existential": 6.1058,
+      "man": 1.5082,
+      "existence": 1.4483,
+      "living": 4.339,
+      "free": 2.0034,
+      "self": 1.8502,
+      "choice": 0.2409,
+      "individual": 1.053,
+      "personal": 0.5609,
+      "understanding": 3.1993,
+      "our": 0.2498,
+      "questioning": 5.6501,
+      "consciousness": 1.338,
+      "humanity": 3.2812,
+      "Exist": 3.3027,
+      "finding": 0.4445,
+      "ethics": 5.3865,
+      "life": 0.7918,
+      "action": 0.355,
+      "responsibility": -1.3476
+    },
+    "a random person": {
+      "random": 15.9113,
+      "randomness": 12.2895,
+      "freedom": 4.7657,
+      "finding": 1.6109,
+      "living": 1.3106,
+      "life": 1.4758,
+      "making": 3.283,
+      "their": 9.0222,
+      "understanding": 2.8783,
+      "having": 1.3657,
+      "creating": 1.7462,
+      "self": 1.3192,
+      "accepting": 2.6063,
+      "trying": 3.8514,
+      "taking": 2.2878,
+      "his": 3.2741,
+      "doing": 2.5182,
+      "personal": 0.8809
+    }
+  },
+  "final_unique_concepts": {
+    "Immanuel Kant": [
+      {
+        "word": "reason",
+        "prob": 0.059930093586444855,
+        "baseline_prob": 0,
+        "lift": 59930.093586444855,
+        "entity_attribution": 1.3286049163871212
+      },
+      {
+        "word": "human",
+        "prob": 0.05238623544573784,
+        "baseline_prob": 0,
+        "lift": 52386.23544573784,
+        "entity_attribution": 2.826313694136843
+      },
+      {
+        "word": "freedom",
+        "prob": 0.03437480702996254,
+        "baseline_prob": 0.019880501553416252,
+        "lift": 1.7290714189278387,
+        "entity_attribution": 1.3170986945915502
+      },
+      {
+        "word": "ethics",
+        "prob": 0.03020506165921688,
+        "baseline_prob": 0,
+        "lift": 30205.06165921688,
+        "entity_attribution": 5.366714761097683
+      },
+      {
+        "word": "morality",
+        "prob": 0.02842199057340622,
+        "baseline_prob": 0,
+        "lift": 28421.99057340622,
+        "entity_attribution": 4.395424225553143
+      },
+      {
+        "word": "understanding",
+        "prob": 0.02009483054280281,
+        "baseline_prob": 0.012185875326395035,
+        "lift": 1.6490264346687267,
+        "entity_attribution": 5.476433572654059
+      },
+      {
+        "word": "knowledge",
+        "prob": 0.01814509555697441,
+        "baseline_prob": 0,
+        "lift": 18145.09555697441,
+        "entity_attribution": 0.32409573875520437
+      },
+      {
+        "word": "our",
+        "prob": 0.016084404662251472,
+        "baseline_prob": 0,
+        "lift": 16084.404662251472,
+        "entity_attribution": 0.5155748855613638
+      },
+      {
+        "word": "critical",
+        "prob": 0.013358470052480698,
+        "baseline_prob": 0,
+        "lift": 13358.470052480698,
+        "entity_attribution": 3.7984623676784395
+      },
+      {
+        "word": "rational",
+        "prob": 0.012975088320672512,
+        "baseline_prob": 0,
+        "lift": 12975.088320672512,
+        "entity_attribution": 3.504631875679479
+      },
+      {
+        "word": "moral",
+        "prob": 0.009736333973705769,
+        "baseline_prob": 0,
+        "lift": 9736.333973705769,
+        "entity_attribution": 7.601805630445597
+      },
+      {
+        "word": "rationality",
+        "prob": 0.008491386659443378,
+        "baseline_prob": 0,
+        "lift": 8491.386659443378,
+        "entity_attribution": 4.203166940846131
+      },
+      {
+        "word": "man",
+        "prob": 0.007439520210027695,
+        "baseline_prob": 0,
+        "lift": 7439.520210027695,
+        "entity_attribution": 1.0687445932962873
+      },
+      {
+        "word": "free",
+        "prob": 0.005613085348159075,
+        "baseline_prob": 0,
+        "lift": 5613.085348159075,
+        "entity_attribution": 2.618538238111796
+      },
+      {
+        "word": "his",
+        "prob": 0.004345363471657038,
+        "baseline_prob": 0.006366502959281206,
+        "lift": 0.6825353729432083,
+        "entity_attribution": 6.643206853538686
+      },
+      {
+        "word": "knowing",
+        "prob": 0.004026776645332575,
+        "baseline_prob": 0,
+        "lift": 4026.776645332575,
+        "entity_attribution": 0.5368718957925012
+      },
+      {
+        "word": "thinking",
+        "prob": 0.003815196454524994,
+        "baseline_prob": 0.005120490211993456,
+        "lift": 0.745084219786,
+        "entity_attribution": 4.347005424606323
+      }
+    ],
+    "Friedrich Nietzsche": [
+      {
+        "word": "human",
+        "prob": 0.02639363706111908,
+        "baseline_prob": 0,
+        "lift": 26393.63706111908,
+        "entity_attribution": 2.817899238334576
+      },
+      {
+        "word": "man",
+        "prob": 0.026353493332862854,
+        "baseline_prob": 0,
+        "lift": 26353.493332862854,
+        "entity_attribution": 1.858871596847166
+      },
+      {
+        "word": "freedom",
+        "prob": 0.019117891788482666,
+        "baseline_prob": 0.019880501553416252,
+        "lift": 0.9616403156185696,
+        "entity_attribution": 2.940035928215366
+      },
+      {
+        "word": "overcoming",
+        "prob": 0.019023390486836433,
+        "baseline_prob": 0,
+        "lift": 19023.390486836433,
+        "entity_attribution": 1.5189072581888468
+      },
+      {
+        "word": "self",
+        "prob": 0.01417792122811079,
+        "baseline_prob": 0.008694877848029137,
+        "lift": 1.6306061425951477,
+        "entity_attribution": 1.5372088050880848
+      },
+      {
+        "word": "questioning",
+        "prob": 0.012951860204339027,
+        "baseline_prob": 0,
+        "lift": 12951.860204339027,
+        "entity_attribution": 4.472459434502525
+      },
+      {
+        "word": "power",
+        "prob": 0.012204892933368683,
+        "baseline_prob": 0,
+        "lift": 12204.892933368683,
+        "entity_attribution": 2.328588647324068
+      },
+      {
+        "word": "life",
+        "prob": 0.012158028781414032,
+        "baseline_prob": 0.015787901356816292,
+        "lift": 0.7700851751372836,
+        "entity_attribution": 1.2916266483607615
+      },
+      {
+        "word": "truth",
+        "prob": 0.008958358317613602,
+        "baseline_prob": 0,
+        "lift": 8958.358317613602,
+        "entity_attribution": 3.0780176513326296
+      },
+      {
+        "word": "becoming",
+        "prob": 0.007829149253666401,
+        "baseline_prob": 0,
+        "lift": 7829.149253666401,
+        "entity_attribution": 1.4030069375694438
+      },
+      {
+        "word": "morality",
+        "prob": 0.007467976305633783,
+        "baseline_prob": 0,
+        "lift": 7467.976305633783,
+        "entity_attribution": 2.3509614756840165
+      },
+      {
+        "word": "creating",
+        "prob": 0.006883458234369755,
+        "baseline_prob": 0.009212498553097248,
+        "lift": 0.7471868999160419,
+        "entity_attribution": 0.8558072916166566
+      },
+      {
+        "word": "our",
+        "prob": 0.0065316250547766685,
+        "baseline_prob": 0,
+        "lift": 6531.625054776669,
+        "entity_attribution": 0.571404665515729
+      },
+      {
+        "word": "knowledge",
+        "prob": 0.006428202614188194,
+        "baseline_prob": 0,
+        "lift": 6428.202614188194,
+        "entity_attribution": 0.966354617557954
+      },
+      {
+        "word": "living",
+        "prob": 0.006320243701338768,
+        "baseline_prob": 0.017719054594635963,
+        "lift": 0.356691925496526,
+        "entity_attribution": 5.118862807899859
+      },
+      {
+        "word": "individual",
+        "prob": 0.0055082738399505615,
+        "baseline_prob": 0,
+        "lift": 5508.2738399505615,
+        "entity_attribution": 2.2776237168654916
+      },
+      {
+        "word": "transc",
+        "prob": 0.005304585210978985,
+        "baseline_prob": 0,
+        "lift": 5304.585210978985,
+        "entity_attribution": 4.8555642556384555
+      },
+      {
+        "word": "breaking",
+        "prob": 0.004867389798164368,
+        "baseline_prob": 0,
+        "lift": 4867.389798164368,
+        "entity_attribution": 0.7735892824057373
+      },
+      {
+        "word": "humanity",
+        "prob": 0.0046976488083601,
+        "baseline_prob": 0,
+        "lift": 4697.6488083601,
+        "entity_attribution": 3.807034046512854
+      },
+      {
+        "word": "changing",
+        "prob": 0.004620189778506756,
+        "baseline_prob": 0,
+        "lift": 4620.189778506756,
+        "entity_attribution": 0
+      }
+    ],
+    "Karl Marx": [
+      {
+        "word": "class",
+        "prob": 0.061843156814575195,
+        "baseline_prob": 0,
+        "lift": 61843.156814575195,
+        "entity_attribution": 1.864432789334387
+      },
+      {
+        "word": "human",
+        "prob": 0.048175256699323654,
+        "baseline_prob": 0,
+        "lift": 48175.256699323654,
+        "entity_attribution": 3.0159691288736212
+      },
+      {
+        "word": "social",
+        "prob": 0.03951135277748108,
+        "baseline_prob": 0,
+        "lift": 39511.35277748108,
+        "entity_attribution": 2.393283807910848
+      },
+      {
+        "word": "changing",
+        "prob": 0.018801148980855942,
+        "baseline_prob": 0,
+        "lift": 18801.14898085594,
+        "entity_attribution": -0.1521803254254337
+      },
+      {
+        "word": "understanding",
+        "prob": 0.018378131091594696,
+        "baseline_prob": 0.012185875326395035,
+        "lift": 1.5081502640837805,
+        "entity_attribution": 5.121713041333351
+      },
+      {
+        "word": "power",
+        "prob": 0.0178350992500782,
+        "baseline_prob": 0,
+        "lift": 17835.0992500782,
+        "entity_attribution": 2.719719838403762
+      },
+      {
+        "word": "equality",
+        "prob": 0.017002180218696594,
+        "baseline_prob": 0,
+        "lift": 17002.180218696594,
+        "entity_attribution": 1.7050434830953236
+      },
+      {
+        "word": "people",
+        "prob": 0.013627075590193272,
+        "baseline_prob": 0,
+        "lift": 13627.075590193272,
+        "entity_attribution": 2.826449330827927
+      },
+      {
+        "word": "economic",
+        "prob": 0.011886700056493282,
+        "baseline_prob": 0,
+        "lift": 11886.700056493282,
+        "entity_attribution": 2.875278578043435
+      },
+      {
+        "word": "justice",
+        "prob": 0.008226846344769001,
+        "baseline_prob": 0,
+        "lift": 8226.846344769001,
+        "entity_attribution": 2.239596955854722
+      },
+      {
+        "word": "economics",
+        "prob": 0.007605934515595436,
+        "baseline_prob": 0,
+        "lift": 7605.934515595436,
+        "entity_attribution": 1.8702696699824628
+      },
+      {
+        "word": "revolution",
+        "prob": 0.007321786135435104,
+        "baseline_prob": 0,
+        "lift": 7321.786135435104,
+        "entity_attribution": 6.4911718859257235
+      },
+      {
+        "word": "humanity",
+        "prob": 0.006270831450819969,
+        "baseline_prob": 0,
+        "lift": 6270.831450819969,
+        "entity_attribution": 3.117618506301369
+      },
+      {
+        "word": "inequality",
+        "prob": 0.005603965371847153,
+        "baseline_prob": 0,
+        "lift": 5603.965371847153,
+        "entity_attribution": 4.384163929396891
+      },
+      {
+        "word": "society",
+        "prob": 0.005556909367442131,
+        "baseline_prob": 0,
+        "lift": 5556.909367442131,
+        "entity_attribution": 2.327722126065055
+      },
+      {
+        "word": "capitalism",
+        "prob": 0.005371097009629011,
+        "baseline_prob": 0,
+        "lift": 5371.097009629011,
+        "entity_attribution": 4.75067653545193
+      },
+      {
+        "word": "transforming",
+        "prob": 0.0043266694992780685,
+        "baseline_prob": 0,
+        "lift": 4326.6694992780685,
+        "entity_attribution": 2.305392301759639
+      },
+      {
+        "word": "freedom",
+        "prob": 0.00427728146314621,
+        "baseline_prob": 0.019880501553416252,
+        "lift": 0.21514957515803743,
+        "entity_attribution": 2.095868247895851
+      }
+    ],
+    "Jean-Paul Sartre": [
+      {
+        "word": "freedom",
+        "prob": 0.1324215829372406,
+        "baseline_prob": 0.019880501553416252,
+        "lift": 6.660877371802793,
+        "entity_attribution": 2.55189113482993
+      },
+      {
+        "word": "human",
+        "prob": 0.11684269458055496,
+        "baseline_prob": 0,
+        "lift": 116842.69458055496,
+        "entity_attribution": 3.6050380634583234
+      },
+      {
+        "word": "existential",
+        "prob": 0.07178671658039093,
+        "baseline_prob": 0,
+        "lift": 71786.71658039093,
+        "entity_attribution": 6.105847027838081
+      },
+      {
+        "word": "man",
+        "prob": 0.034010495990514755,
+        "baseline_prob": 0,
+        "lift": 34010.495990514755,
+        "entity_attribution": 1.5081745431953095
+      },
+      {
+        "word": "existence",
+        "prob": 0.023874297738075256,
+        "baseline_prob": 0,
+        "lift": 23874.297738075256,
+        "entity_attribution": 1.4482611415373867
+      },
+      {
+        "word": "living",
+        "prob": 0.02310166321694851,
+        "baseline_prob": 0.017719054594635963,
+        "lift": 1.3037751587458852,
+        "entity_attribution": 4.3389641098510765
+      },
+      {
+        "word": "free",
+        "prob": 0.01538019347935915,
+        "baseline_prob": 0,
+        "lift": 15380.19347935915,
+        "entity_attribution": 2.003401864425541
+      },
+      {
+        "word": "self",
+        "prob": 0.01045115664601326,
+        "baseline_prob": 0.008694877848029137,
+        "lift": 1.201990048472299,
+        "entity_attribution": 1.850226327736891
+      },
+      {
+        "word": "choice",
+        "prob": 0.009418360888957977,
+        "baseline_prob": 0,
+        "lift": 9418.360888957977,
+        "entity_attribution": 0.2408846691787403
+      },
+      {
+        "word": "individual",
+        "prob": 0.009141081012785435,
+        "baseline_prob": 0,
+        "lift": 9141.081012785435,
+        "entity_attribution": 1.052979661566951
+      },
+      {
+        "word": "personal",
+        "prob": 0.008080204017460346,
+        "baseline_prob": 0.00522108469158411,
+        "lift": 1.547610217946639,
+        "entity_attribution": 0.560893203404703
+      },
+      {
+        "word": "understanding",
+        "prob": 0.007654503919184208,
+        "baseline_prob": 0.012185875326395035,
+        "lift": 0.6281455959593057,
+        "entity_attribution": 3.1993336478672063
+      },
+      {
+        "word": "our",
+        "prob": 0.006706547923386097,
+        "baseline_prob": 0,
+        "lift": 6706.547923386097,
+        "entity_attribution": 0.24975779292799416
+      },
+      {
+        "word": "questioning",
+        "prob": 0.006633435375988483,
+        "baseline_prob": 0,
+        "lift": 6633.435375988483,
+        "entity_attribution": 5.650060798924642
+      },
+      {
+        "word": "consciousness",
+        "prob": 0.006217894144356251,
+        "baseline_prob": 0,
+        "lift": 6217.894144356251,
+        "entity_attribution": 1.3380053082046288
+      },
+      {
+        "word": "humanity",
+        "prob": 0.0056285853497684,
+        "baseline_prob": 0,
+        "lift": 5628.5853497684,
+        "entity_attribution": 3.2811858955546995
+      },
+      {
+        "word": "Exist",
+        "prob": 0.004776280838996172,
+        "baseline_prob": 0,
+        "lift": 4776.280838996172,
+        "entity_attribution": 3.3026839592284887
+      },
+      {
+        "word": "ethics",
+        "prob": 0.0040334551595151424,
+        "baseline_prob": 0,
+        "lift": 4033.4551595151424,
+        "entity_attribution": 5.386456173144325
+      },
+      {
+        "word": "life",
+        "prob": 0.003908881451934576,
+        "baseline_prob": 0.015787901356816292,
+        "lift": 0.24758714686591007,
+        "entity_attribution": 0.7918011120516439
+      }
+    ]
+  }
+}
